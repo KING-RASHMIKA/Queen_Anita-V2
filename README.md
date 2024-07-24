@@ -49,6 +49,8 @@
 1. If you don't have an account in RENDER, create one and deploy.
     <br>
     <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PFYaqnuFKi8?si=clmY9NehWGACP1AM)
 
 
 ### DEPLOY ON CLEVER CLOUD
@@ -81,7 +83,7 @@
  <br> 
 <p align="center">
 <a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
@@ -93,9 +95,9 @@
 
 * [🧑‍💻 Follow Queen_Anita-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
 
-* [🧑‍💻 Join Queen_Anita-V2 Group 🧑‍💻](https://t.me/hacktivisthive)
+* [🧑‍💻 Join Queen_Anita-V2 Telegram Group 🧑‍💻](https://t.me/dctech)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoH1auW2NAKazX)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -114,12 +116,13 @@
 
 <a href="https://github.com/astrofx0011"><img src="https://github.com/astrofx0011.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Itxxwasi.png?size=100" width="100" height="100">](https://github.com/Itxxwasi) 
 ---|---
-[Astrofx](https://github.com/astrofx0011)  | [Wasi](https://github.com/itxxwasi)
-Plugins | Bug Fixer & Help |
+  [Wasi](https://github.com/itxxwasi)
+ Help 
+ 
 
 ## Support
 
-SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VafEBFXhttps://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
